@@ -1,11 +1,7 @@
 # How to Play Minesweeper in OCaml
 
-## Authors
-
-- Caroline Gaudet (cmg283)
-- AjayPaul Nagyal (asn68)
-- Ignacio Estrada Cavero (ire2)
-- Teg Singh (ts647)
+## Author
+- Ignacio Estrada Cavero
 
 ## Prerequisites
 
